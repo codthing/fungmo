@@ -1,4 +1,4 @@
-<div style="width:100%;" style="display:block;">
-  <img style="width:50%;" src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
-  <img style="width:50%;" src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
+<div style="display:flex;flex-wrap:nowrap;justify:center;align-content:center;" style="display:block;">
+  <img style="flex-grow:1;" src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
+  <img style="flex-grow:1" src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
 </div>
