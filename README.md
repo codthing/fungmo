@@ -1,4 +1,4 @@
 <div style="display:block;">
-  <img src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
-  <img src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
+  <img style="width:50%;" src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
+  <img style="width:50%;" src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
 </div>
