@@ -1,4 +1,4 @@
-<div style="display:flex;flex-wrap:nowrap;justify:center;align-content:center;" style="display:block;">
-  <img style="max-width:420px;" src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
-  <img style="max-width:420px;" src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
-</div>
+
+  <img style="max-width:420px;float:left;" src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
+  <img style="max-width:420px;float:left;" src="https://raw.githubusercontent.com/mofengfs/mofengfs/main/assets/giphy.gif" />
+
