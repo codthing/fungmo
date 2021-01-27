@@ -1,4 +1,8 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mofengfs)](https://github.com/mofengfs/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mofengfs&count_private=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mofengfs&show_icons=true&theme=radical)
+hello world
 
+[![FreakyCoder Github Visitors](https://badges.pufler.dev/visits/mofengfs/mofengfs?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
+[![FreakyCoder Monthly Commits](https://badges.pufler.dev/commits/monthly/mofengfs?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
+
+[![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=mofengfs&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](https://freakycoder.com)
+
+[![FreakyCoder Github Stats](https://github-readme-stats.vercel.app/api?username=mofengfs&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)](https://freakycoder.com)
