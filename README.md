@@ -1,5 +1,3 @@
-hello world
-
 [![FreakyCoder Github Visitors](https://badges.pufler.dev/visits/mofengfs/mofengfs?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
 [![FreakyCoder Monthly Commits](https://badges.pufler.dev/commits/monthly/mofengfs?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
 
